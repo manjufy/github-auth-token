@@ -1,11 +1,11 @@
 # Github Auth Token API
 
 
-## Problem
+## Overview
 
-## Solution
+## Github Authentication Flow
 
-## How to Use
+## How to use
 
 ## Testing
 
