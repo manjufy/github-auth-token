@@ -12,4 +12,4 @@
 
 ## References
 
-https://github.com/manjufy/github-auth-token.git
+https://auth0.com/learn/social-login/
